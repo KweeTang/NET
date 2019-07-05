@@ -1,0 +1,16 @@
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\SalaryCalculatorTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\SalaryCalculatorTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\SalaryCalculatorTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\SalaryCalculatorTestProject\bin\Debug\SalaryCalculatorTestProject.dll
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\SalaryCalculatorTestProject\bin\Debug\SalaryCalculatorTestProject.pdb
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\SalaryCalculatorTestProject\bin\Debug\Calculator.dll
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\SalaryCalculatorTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\SalaryCalculatorTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\SalaryCalculatorTestProject\bin\Debug\Calculator.pdb
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\SalaryCalculatorTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\SalaryCalculatorTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\SalaryCalculatorTestProject\obj\Debug\SalaryCalculatorTestProject.csprojAssemblyReference.cache
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\SalaryCalculatorTestProject\obj\Debug\SalaryCalculatorTestProject.csproj.CoreCompileInputs.cache
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\SalaryCalculatorTestProject\obj\Debug\SalaryCalculatorTestProject.csproj.CopyComplete
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\SalaryCalculatorTestProject\obj\Debug\SalaryCalculatorTestProject.dll
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\SalaryCalculatorTestProject\obj\Debug\SalaryCalculatorTestProject.pdb

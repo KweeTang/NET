@@ -1,0 +1,6 @@
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\Calculator\bin\Debug\Calculator.dll
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\Calculator\bin\Debug\Calculator.pdb
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\Calculator\obj\Debug\Calculator.dll
+C:\Users\kwee_\Projects\NET\SalaryCalculatorTestProject\Calculator\obj\Debug\Calculator.pdb
