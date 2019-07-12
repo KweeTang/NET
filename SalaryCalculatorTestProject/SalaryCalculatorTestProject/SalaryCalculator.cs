@@ -12,7 +12,7 @@ namespace SalaryCalculatorTestProject
     */
 
     [TestClass]
-    public class UnitTest1
+    public class CalculatorTests
     {
         [TestMethod]
         public void AnnualSalaryTest()
@@ -25,6 +25,19 @@ namespace SalaryCalculatorTestProject
 
             // Assert
             Assert.AreEqual(104000, annualSalary);
+        }
+
+        [TestMethod]
+        public void HourlyWageTest()
+        {
+            // Setup
+            SalaryCalculator sc = new SalaryCalculator();
+
+            // Test
+            decimal hourlyWage = sc.GetHourlyWage(52000);
+
+            // Assert
+            Assert.AreEqual(25, hourlyWage);
         }
     }
 }
